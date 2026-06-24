@@ -1,3 +1,22 @@
+# CLion
+.idea/
+!.idea/.gitignore
+
+# CMake
 cmake-build-debug/
 cmake-build-release/
-.idea/workspace.xml
+cmake-build-*/
+
+# Executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.lib
+
+# Debug files
+*.pdb
