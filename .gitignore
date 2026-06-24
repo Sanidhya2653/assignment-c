@@ -20,3 +20,5 @@ cmake-build-*/
 
 # Debug files
 *.pdb
+
+CMakeLists.txt
