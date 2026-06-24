@@ -15,4 +15,9 @@ add_executable(Assignments main.c
         "01_PartA Conditional Statements/08_2switch-case.c"
         "01_PartA Conditional Statements/10_Calculator-switch-case.c"
         "01_PartA Conditional Statements/11_triangle.c"
-        "01_PartA Conditional Statements/12_temperature.c")
+        "01_PartA Conditional Statements/12_temperature.c"
+        "02_PartB Loops/01_loop1-100.c"
+        "02_PartB Loops/02_pf100-1.c"
+        "02_PartB Loops/03_even1-100.c"
+        "02_PartB Loops/04_Multiplication_table.c"
+        "02_PartB Loops/05_sumOfN-terms.c")
